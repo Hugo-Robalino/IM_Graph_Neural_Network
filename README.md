@@ -11,4 +11,7 @@ It was found that, although the center loss does give the model discriminative p
 
 ## Setting up data and virtual environment
 The dataset is integrated in [PyTorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.UPFD). Instructions for how to acces it can be found in the original UPFD framework [GitHub page](https://github.com/safe-graph/GNN-FakeNews).
+
+The [utils](https://github.com/safe-graph/GNN-FakeNews/tree/main/utils) directoy as well as the [center_loss](https://github.com/KaiyangZhou/pytorch-center-loss/blob/master/center_loss.py) file were uploaded again to ensure that the main.py file works properly.
+
 All the environment requirements can be found in the .yml file.
